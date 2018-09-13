@@ -16,3 +16,22 @@
       padding-left: 8em;
       padding-right: 8em;
   }
+
+  #heroStart {
+     padding: 10%;
+     padding-top: 8%;
+     margin-top:0; 
+     border-bottom: 1px solid black;
+  }
+
+  #navOne {
+    padding-bottom: 0;
+    margin-bottom:0;
+  }
+
+.hero strong {
+    color:#e31b6d;
+}
+#aboutMe {
+    padding-top: 2%;
+}
