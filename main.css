@@ -1,0 +1,12 @@
+.aboutIcons {
+    max-width: 8em;
+    max-height: 8em;
+}
+
+.is-horizontal-center {
+    justify-content: center;
+  }
+
+  .is-row-layout{
+      flex-direction: column;
+  }
